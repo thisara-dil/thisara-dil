@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thisara Dilshan</h1>
-<h3 align="center">Passionate About Software Testing and Continuous Improvement</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=+Passionate+About+Software+Testing+and+Continuous+Improvement;Computer+Science+Student;Active+Learner;Love+to+learn+new+stuffs"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=white &size=25&center=true&vCenter=true&width=600&height=100&lines=Passionate+About+Software+Testing+and+Continuous+Improvement;Computer+Science+Student;Active+Learner;Love+to+learn+new+stuffs"></a>
 </p>
 
 
