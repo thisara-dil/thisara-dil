@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Playwright** 👨‍💻
 
-- 🖥️ Check out my [Portfolio](https://www.thisaradilshan.com/sqa) for my projects, case studies, and skills.
+- 🖥️ Check out my [Portfolio : www.thisaradilshan.com/sqa](https://www.thisaradilshan.com/sqa) for my projects, case studies, and skills.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
