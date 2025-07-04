@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/thisara-dilshan-10ab32281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thisara-dilshan-10ab32281" height="30" width="40" /></a>
     <a href="https://www.thisaradilshan.com/sqa" target="_blank">
-    <img align="center" src="https://www.thisaradilshan.com/favicon.ico" alt="Portfolio" height="30" width="40" />
+    <img align="center" src="https://cdn.simpleicons.org/aboutdotme/black" alt="Portfolio" height="30" width="40" />
   </a>
 </p>
 
