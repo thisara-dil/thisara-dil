@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Thisara Dilshan</h1>
 <h3 align="center">Passionate About Software Testing and Continuous Improvement</h3>
+- 🌱 I’m currently learning Playwright👨‍💻
 
-- 📫 How to reach me **thisaradilshanperera@gmail.com**
+- 📫 How to reach me **thisaradilshan.com/sqa**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
